@@ -26,6 +26,7 @@
     height: 200px;
     background-color: #8f0401;
     margin: auto;
+    border-radius: 8px 10px;
   }
   
   .three {
